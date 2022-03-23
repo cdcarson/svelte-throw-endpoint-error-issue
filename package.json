@@ -1,5 +1,5 @@
 {
-  "name": "throw-test",
+  "name": "svelte-throw-endpoint-error-issue",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-node": "^1.0.0-next.73",
     "@sveltejs/kit": "next",
     "@typescript-eslint/eslint-plugin": "^5.10.1",
     "@typescript-eslint/parser": "^5.10.1",
